@@ -11,7 +11,7 @@ public class helloworld {
 		}
 
 		System.out.println("David Hu");
-		System.out.println("Victor Pan");
+		System.out.println("Victor Pan is not awesome");
 
 	}
 }
